@@ -1,0 +1,1 @@
+faithfulnes: 0.6421769094064206, nv_context_relevance: 0.61, llm_context_precision_without_reference: 0.9499999999655
