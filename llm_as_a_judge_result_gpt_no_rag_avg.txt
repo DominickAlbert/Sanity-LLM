@@ -1,5 +1,5 @@
-helpfulness    7.426667
-empathy        8.170000
-clarity        8.233333
-safety         8.616667
-grounding      6.786667
+helpfulness    7.810000
+empathy        8.543333
+clarity        8.446667
+safety         8.893333
+grounding      7.283333
