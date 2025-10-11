@@ -1,0 +1,74 @@
+[
+  {
+    "user_input": "I'm struggling with social anxiety and have trouble in social situations.",
+    "reference": "Managing social anxiety involves identifying triggers and developing coping mechanisms, such as deep breathing exercises and cognitive-behavioral therapy. Building self-confidence and reducing anxiety in social situations are also key components of treatment. It is important to recognize that social anxiety is common and treatable, with therapy being an effective option for many individuals. Positive self-talk can serve as an additional strategy to help manage anxiety.",
+    "topic": "Anxiety",
+    "doc_id": [
+      6495,
+      5152
+    ]
+  },
+  {
+    "user_input": "I always feel like I'm doing something wrong. Everything I do is crappy. I want to cry all the time. I can't eat or sleep.",
+    "reference": "The responses highlight common symptoms of depression, such as low self-esteem, difficulty sleeping, changes in appetite, and loss of interest in previously enjoyable activities. A full evaluation by a mental health professional is important to determine if an individual meets the criteria for Major Depressive Disorder. Key indicators of depression include feelings of hopelessness and worthlessness, as well as a loss of pleasure in activities that once brought joy. Effective treatment options include psychotherapy, medication, and exercise, either individually or in combination. The responses emphasize that depression is a real and treatable condition, and seeking professional help can lead to improved mood and decreased feelings of inadequacy over time.",
+    "topic": "Depression",
+    "doc_id": [
+      89,
+      6775
+    ]
+  },
+  {
+    "user_input": "I'm having trouble with my finances. I can't seem to get out of debt and it's causing me a lot of stress.",
+    "reference": "To manage stress related to financial issues, it's crucial to develop a realistic budget and track your expenses. Identifying areas for cost-cutting can help improve your financial situation. Prioritizing debt repayment and saving for emergencies are essential steps. Seeking assistance from a financial advisor or enrolling in a personal finance course can enhance financial literacy and provide additional support. Honest assessment of spending habits is vital for achieving your financial goals.",
+    "topic": "Stress management",
+    "doc_id": [
+      4508,
+      4498
+    ]
+  },
+  {
+    "user_input": "I'm struggling with low self-esteem and negative self-talk.",
+    "reference": "To address low self-esteem and negative self-talk, it's important to reframe thoughts and develop a positive self-image. Identifying and challenging negative beliefs is a key strategy, often supported by cognitive behavioral therapy (CBT). Exploring underlying experiences that contribute to negative self-perception can also be beneficial. Additionally, practicing self-compassion and engaging in self-care activities may enhance confidence and self-worth. Collaborating with a therapist can help tailor these approaches to individual needs.",
+    "topic": "Self-esteem and self-worth",
+    "doc_id": [
+      6078,
+      6070
+    ]
+  },
+  {
+    "user_input": "I can't stop thinking about my ex, what's wrong with me?",
+    "reference": "In couples therapy, it's important to address issues related to past relationships if they are affecting the present. Improving communication is essential for resolving conflicts and strengthening the relationship. Therapists encourage couples to explore their feelings and identify underlying issues while implementing healthy communication strategies. Setting aside dedicated time for open and distraction-free conversations can also be beneficial for fostering connection. Overall, the focus is on collaborative problem-solving and enhancing understanding between partners.",
+    "topic": "Couples therapy and relationship counseling",
+    "doc_id": [
+      282,
+      4732
+    ]
+  },
+  {
+    "user_input": "I'm feeling really stressed out and overwhelmed by work.",
+    "reference": "Therapists emphasize the importance of self-care and establishing healthy boundaries to manage workplace stress effectively. They suggest exploring stress-management techniques and developing coping strategies tailored to individual workloads. Key recommendations include utilizing time management and prioritization skills, creating a balanced schedule that incorporates self-care and relaxation, and practicing stress-reducing techniques like deep breathing, meditation, or yoga. Additionally, open communication with supervisors about workload can help in redistributing tasks and managing responsibilities more effectively.",
+    "topic": "Workplace and career stress",
+    "doc_id": [
+      2755,
+      1308
+    ]
+  },
+  {
+    "user_input": "I'm having trouble coping with a recent trauma. What can I do to start healing?",
+    "reference": "Healing from trauma involves several strategies, including practicing self-care, understanding emotions and triggers, and seeking professional support. Professional help is crucial for processing trauma and developing effective coping mechanisms. Techniques like Eye Movement Desensitization and Reprocessing (EMDR) and exposure therapy may be beneficial in addressing symptoms such as anxiety and hypervigilance. Engaging in these approaches can facilitate the recovery process and improve daily functioning.",
+    "topic": "Trauma and PTSD",
+    "doc_id": [
+      3335,
+      5640
+    ]
+  },
+  {
+    "user_input": "I was born a girl, but I want to be a boy. Because of my religion I can't tell my family. I know they won't accept me. What do I do?",
+    "reference": "The therapist responses emphasize the importance of seeking support during challenging times related to LGBTQ+ identity. Individuals are encouraged to consider talking to a life coach or therapist, potentially without initially disclosing their specific issues, to gain guidance and support. Building a supportive community is highlighted as crucial, especially if family acceptance is lacking; connecting with LGBTQ+ support groups or hotlines can provide a sense of belonging. The responses also stress the necessity of self-acceptance and exploration of one's identity, while acknowledging the potential difficulties in discussing personal truths with family. Furthermore, individuals are advised to approach their feelings and thoughts with curiosity rather than judgment, facilitating a healthier understanding of their identity. Establishing boundaries and maintaining a positive self-image are also emphasized as key elements in navigating personal and spiritual journeys.",
+    "topic": "LGBTQ+ issues",
+    "doc_id": [
+      1128,
+      657
+    ]
+  }
+]
